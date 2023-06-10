@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.h {
+  color: white;
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+.last {
+  margin: 10px;
+  box-shadow: 0 0 10px 5px #6c757d;
+  margin-bottom: 10px;
+}
+.m {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
